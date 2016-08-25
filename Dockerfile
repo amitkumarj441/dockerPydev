@@ -1,4 +1,4 @@
-FROM ubuntustudio:16.04
+FROM ubuntustudio:14.04
 
 MAINTAINER Amit Kumar Jaiswal <amitkumarj441@gmail.com>
 
